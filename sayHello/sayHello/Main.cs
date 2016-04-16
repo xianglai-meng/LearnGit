@@ -11,6 +11,7 @@ namespace sayHello
 			string s = Console.ReadLine().ToString();
 			if ( s!= null) {
 				Console.WriteLine("good!");
+				Console.WriteLine("thank you");
 			}
 			Console.ReadLine();
 		}

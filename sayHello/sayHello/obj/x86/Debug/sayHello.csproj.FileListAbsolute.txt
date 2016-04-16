@@ -1,0 +1,5 @@
+C:\learngit\sayHello\sayHello\bin\Debug\sayHello.exe
+C:\learngit\sayHello\sayHello\bin\Debug\sayHello.pdb
+C:\learngit\sayHello\sayHello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\learngit\sayHello\sayHello\obj\x86\Debug\sayHello.exe
+C:\learngit\sayHello\sayHello\obj\x86\Debug\sayHello.pdb
